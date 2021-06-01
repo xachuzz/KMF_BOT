@@ -45,17 +45,13 @@ distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
 the following conditions:
 
-( 
+(Cyber theft is a part of cybercrime which means theft carried out by ... 
+(IP) theft is defined as theft of material that is copyrighted, the theft of trade)
+
+If we Find! We Will Move Legally ⚖
+
 ---
 # Author Info
 - Owner(s) [Ananthu Ganesh](https://www.instagram.com/un_f__amour/) & [Arun](https://www.instagram.com/dr.luttappi/)
 - Maintainer(s) [Anandhu](https://www.instagram.com/mind________freezer/)
 - Moderator(s) [Nelson](https://www.instagram.com)
----
-
-# Donate
-If you love our work, Consider donating. 
-
-<a href="https://www.paypal.com/paypalme/ananthuganesh"><img src="https://user-images.githubusercontent.com/58104674/96376549-39ab5700-119d-11eb-95fc-06dd8f417301.png" align="left" height="48" ></a>
-
-
