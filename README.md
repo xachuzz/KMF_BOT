@@ -1,7 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/project-x8/KMF_BOT/total.svg)]()
-
-
-
 ![kmfbanner](https://user-images.githubusercontent.com/58104674/95757141-60145280-0cc4-11eb-814f-6624d45dc077.jpg)
 # KMF_BOT ![Version](https://img.shields.io/badge/Version-3.5.1-green) ![MIT License]( https://img.shields.io/badge/license-MIT-brightgreen)
 ---
@@ -60,32 +56,6 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 [![Alt text for your video](https://user-images.githubusercontent.com/58104674/96328427-89d0cf00-1060-11eb-909e-170bb8fc9d1e.jpg)](https://youtu.be/HY6f43iBD4k=VIDEO-ID "Watch Video Now!")
 
 Do Subscribe and Like For More Free Bot and Instagram Tricks and Tips
-
----
-
-# License
-
-MIT License
-
-Copyright (c) [2020] [Ananthu Ganesh]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 ---
 # Author Info
