@@ -1,14 +1,13 @@
 ![Welcome](https://user-images.githubusercontent.com/84958449/120379775-dcd06b80-c33d-11eb-94b7-b1409c74cae7.gif)
-# KMF_BOT 2.0 by Projext X Group
----
- 
+<h1 align="center">⚡ KMF_BOT 2.0 ⚡</h1 align="center"> 
+
 # Description
 
 KMF BOT is an Instagram Automation Program that automates some options for you, there are Ten Options available now. You can run the bot and it will start building real, organic followers to your account. You can get average 150-200 followers every day And Yet our BOT not violate any of Instagram's Limitation, so you don't have to worry about getting ACTION BLOCK !
 
-[Completely Free BOT]
+For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 😇
 
-### Features
+### ⚡Features
 
 - TeamHunter
 - Masslooker
@@ -42,16 +41,10 @@ python main.py
 
 
 ---
-### Author Info
-- Owner(s) [Ananthu Ganesh](https://www.instagram.com/un_f__amour/) $ [Arun](https://www.instagram.com/dr.luttappi/)
+# Author Info
+- Owner(s) [Ananthu Ganesh](https://www.instagram.com/un_f__amour/) & [Arun](https://www.instagram.com/dr.luttappi/)
 - Maintainer(s) [Anandhu](https://www.instagram.com/mind________freezer/)
-
-
-
-- [Whatsapp](https://chat.whatsapp.com/HodrQitZNwX4tJoAd46OS4)
-- [Twitter](https://twitter.com/un_f__amour)
-- [Telegram](https://t.me/KMFBOT_OFFICIAL)
-
+- Moderator(s) [Nelson](https://www.instagram.com)
 ---
 
 # Donate
