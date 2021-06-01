@@ -37,9 +37,15 @@ pip install -r requirement.txt
 python main.py
 ```
 ---
-### Tutorial Video
+# Warnings ⚠
+Copyright (c)2021 Project X
 
+Without Proper Permission limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
+( 
 ---
 # Author Info
 - Owner(s) [Ananthu Ganesh](https://www.instagram.com/un_f__amour/) & [Arun](https://www.instagram.com/dr.luttappi/)
