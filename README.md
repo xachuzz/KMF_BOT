@@ -1,3 +1,4 @@
+![Welcome](https://user-images.githubusercontent.com/84958449/120379775-dcd06b80-c33d-11eb-94b7-b1409c74cae7.gif)
 ![banner](https://user-images.githubusercontent.com/84958449/120378238-c9240580-c33b-11eb-8747-d6aec39f9870.jpg)
 # KMF_BOT 2.0 ! Projext X Group
 ---
