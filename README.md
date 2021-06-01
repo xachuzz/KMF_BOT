@@ -44,7 +44,10 @@ python main.py
 ---
 ### Author Info
 - Owner(s) [Ananthu Ganesh](https://www.instagram.com/un_f__amour/) $ [Arun](https://www.instagram.com/dr.luttappi/)
-- Maintainer(s) [Anandhu](https://www.facebook.com/ananthu.ganesh.un/)
+- Maintainer(s) [Anandhu](https://www.instagram.com/mind________freezer/)
+
+
+
 - [Whatsapp](https://chat.whatsapp.com/HodrQitZNwX4tJoAd46OS4)
 - [Twitter](https://twitter.com/un_f__amour)
 - [Telegram](https://t.me/KMFBOT_OFFICIAL)
