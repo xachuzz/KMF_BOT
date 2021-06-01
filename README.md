@@ -1,5 +1,5 @@
-![kmfbanner](https://user-images.githubusercontent.com/58104674/95757141-60145280-0cc4-11eb-814f-6624d45dc077.jpg)
-# KMF_BOT ![Version](https://img.shields.io/badge/Version-3.5.1-green) ![MIT License]( https://img.shields.io/badge/license-MIT-brightgreen)
+![banner](https://user-images.githubusercontent.com/84958449/120378238-c9240580-c33b-11eb-8747-d6aec39f9870.jpg)
+# KMF_BOT 2.0 ! Projext X Group
 ---
 ## Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -24,29 +24,32 @@ With TemHunter, you can get average 150-200 followers every day. yet our BOT not
 
 - TeamHunter
 - Masslooker
-- Re-Hashtag
-- Infinity-Feedliker
+- C-Mention
+- Re-Hash
 - Inshackle
+- Like Hashtag
+- HashLiker
+- Bulk Group DM
+- Like & Comment Hashtag
 - Unfollow Non-Followers
-- Profile-Scraper
 ---
 
 # How To Use
 
 ### Installation 
 ```
-git clone https://github.com/ananthuganesh/KMF_BOT.git
+git clone https://github.com/project-x8/KMF_BOT
 ```
 ```
 cd KMF_BOT
 ```
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 ```
 python main.py
 ```
-### Termux Error!
+### If Any Termux Error!
 ```
 pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install ruby -y && pkg install git -y && pkg install php -y && pkg install perl -y && pkg install bash -y && pkg install clang -y && pkg install nano -y && pkg install w3m -y && pkg install figlet -y && pkg install cowsay -y && pkg install curl -y&& pkg install tar -y && pkg install zip -y && pkg install unzip -y && pkg install wget -y && pkg install wcalc -y && pkg install bmon -y && pkg install openssl -y && pkg install cmatrix -y && pkg install openssh -y && apt update && apt upgrade –y
 ```
