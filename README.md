@@ -1,3 +1,7 @@
+[![Github All Releases](https://img.shields.io/github/downloads/project-x8/KMF_BOT/total.svg)]()
+
+
+
 ![kmfbanner](https://user-images.githubusercontent.com/58104674/95757141-60145280-0cc4-11eb-814f-6624d45dc077.jpg)
 # KMF_BOT ![Version](https://img.shields.io/badge/Version-3.5.1-green) ![MIT License]( https://img.shields.io/badge/license-MIT-brightgreen)
 ---
