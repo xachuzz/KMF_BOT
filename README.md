@@ -52,6 +52,4 @@ If we Find! We Will Move Legally ⚖
 
 ---
 # Author Info
-- Owner(s) [Ananthu Ganesh](https://www.instagram.com/un_f__amour/) & [Arun](https://www.instagram.com/dr.luttappi/)
-- Maintainer(s) [Anandhu](https://www.instagram.com/mind________freezer/)
-- Moderator(s) [Nelson](https://www.instagram.com)
+- Owner(s) [Xachuzz](https://www.instagram.com/Xachuzz/)
