@@ -5,7 +5,7 @@
 
 KMF BOT is an Instagram Automation Program that automates some options for you, there are Ten Options available now. You can run the bot and it will start building real, organic followers to your account. You can get average 150-200 followers every day And Yet our BOT not violate any of Instagram's Limitation, so you don't have to worry about getting ACTION BLOCK !
 
-For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 😇
+For Help [Contact me](https://Instagram.com/xachuzz) 😇
 
 ### ⚡Features
 
